@@ -1,0 +1,11 @@
+$header-font-size: 48px;
+
+.page-header-primary {
+  font-weight: bold;
+  font-style: italic;
+  font-size: $header-font-size;
+}
+
+.page-header-secondary {
+  font-size: $header-font-size;
+}
