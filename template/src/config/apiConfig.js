@@ -1,3 +1,8 @@
+/**
+ * This is an automated file.
+ * Please do not update manually.
+ */
+
 import baseAPI from './app/common/apiManagement/basicApi';
 import { defaultAPI } from './app/modules/default';
 
