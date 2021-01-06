@@ -1,10 +1,4 @@
-/**
- * Export Containers from here
- */
-
 export { default as Home } from './containers/home/home';
-
-/**
- * Export Module API configuration
- */
-export { default as defaultAPI } from './defaultApi';
+export { default as defaultAPI } from './config/apiConfig';
+export { default as defaultMenus } from './config/menuConfig';
+export { default as defaultRoutes } from './config/routeConfig';
