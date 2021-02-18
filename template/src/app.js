@@ -4,7 +4,7 @@ import { Router, Switch, Route } from 'react-router-dom';
 import './app.scss';
 
 import { appHistory } from './app/common/util';
-import { Home } from './app/modules/default';
+import { Home } from './app/modules/home';
 
 function App() {
   return (

@@ -1,7 +1,7 @@
-/**
- * This is an automated file.
- * Please do not update manually.
- */
+import { homeMenus } from '../app/modules/home';
 
-const appRouting = [];
-export default appRouting;
+const menus = [
+  ...homeMenus(),
+];
+
+export default menus;

@@ -1,7 +1,6 @@
-/**
- * This is an automated file.
- * Please do not update manually.
- */
+import { homeRoutes } from '../app/modules/home';
 
-const appRouting = [];
+const appRouting = [
+  ...homeRoutes,
+];
 export default appRouting;
